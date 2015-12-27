@@ -1,6 +1,8 @@
 #!/usr/bin/env python
-
-
+#########################
+# author:terry          #
+# 11/12/15              #
+#########################
 
 import sys
 import getopt
